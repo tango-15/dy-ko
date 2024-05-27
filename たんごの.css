@@ -1,0 +1,22 @@
+
+.layer-bg{
+    background: url(./IMG/星空帯.png)repeat-x 15% 30%;}
+    
+.font_color{font-size: 36px;
+            color: lightpink;
+            text-align: center;
+}
+.topga{
+        text-align: center;
+}
+img{
+    margin-top:10px; ;
+        width: 800px;
+}
+
+
+
+.block1{
+    margin-top: 50px;
+    margin-left: 20px;
+   }
